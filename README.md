@@ -10,7 +10,7 @@ A flash card creation app within which the user can create, edit, and delete cus
 
 ## Screenshots:
 ![Landing page](https://i.ibb.co/H41M7z4/landing.png)
-![Deck creation] (https://i.ibb.co/84Pg4Zz/createdeck.png)
+![Deck creation](https://i.ibb.co/84Pg4Zz/createdeck.png)
 ![Deck overview](https://i.ibb.co/6NVGbgq/deckoverview.png)
 ![Deletion](https://i.ibb.co/THP7jmB/deleting.png)
 
