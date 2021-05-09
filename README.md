@@ -1,4 +1,4 @@
-# Flash Card Study App:
+# Flash Card Study App
 
 ## Live demo:
 
@@ -9,10 +9,10 @@
 A flash card creation app within which the user can create, edit, and delete custom reversible flash cards. Each card should be stored within a specific deck which should also be created by the user and can be edited and deleted. Once the user is satisfied with a deck, they can hit "study" to go through the deck one by one with the option of flipping each card at their leisure. Once all of the cards have been reviewed, the user is given the choice to run through the deck once more or to return to the main page.
 
 ## Screenshots:
-![Landing page](https://ibb.co/yPGM0yP)
-![Deck creation] (https://ibb.co/VpMYp4H)
-![Deck overview](https://ibb.co/DLsmk5j)
-![Deletion](https://ibb.co/y8gZvWn)
+![Landing page](https://i.ibb.co/H41M7z4/landing.png)
+![Deck creation] (https://i.ibb.co/84Pg4Zz/createdeck.png)
+![Deck overview](https://i.ibb.co/6NVGbgq/deckoverview.png)
+![Deletion](https://i.ibb.co/THP7jmB/deleting.png)
 
 ## Tech stack:
 
