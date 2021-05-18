@@ -2,7 +2,7 @@
 
 ## Live demo:
 
-[Flash card app NEED TO DEPLOY ](https://reservations-anyamg.vercel.app/)  
+[Deployed flash card app temp placeholder ](https://vercel.app/)  
 
 ## Application summary:
 
